@@ -28,7 +28,7 @@ This application calculates the sales tax for various items based on predefined 
     ruby receipt_master.rb
    
 ## Usage
-Follow the prompts to enter item details in the format: `quantity, name, price, imported, exempt`. 
+Follow the prompts to enter item details in the format: `quantity (imported) name at price`. 
 
 For example:
 ```
