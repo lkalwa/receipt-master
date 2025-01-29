@@ -32,7 +32,7 @@ Follow the prompts to enter item details in the format: `quantity (imported) nam
 
 For example:
 ```
-   imported box of chocolates at 10.00
+   1 imported box of chocolates at 10.00
 ```
 
 Every line has to be typed separately because in case of unknown category program will ask you whether that good is taxable or not.
