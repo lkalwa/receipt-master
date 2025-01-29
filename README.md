@@ -1,4 +1,4 @@
-# Sales Tax Calculator
+# Receipt Master
 
 ## Overview
 This application calculates the sales tax for various items based on predefined tax categories. It generates a receipt that includes the total price of items, sales tax, and other relevant information.
@@ -68,4 +68,5 @@ For example, the program does not handle invalid input well.\
 It is assumed that the user will provide the correct input format.
 No handling of missing tax_categories file.
 More tests are needed to cover all edge cases. \
+Prompt could be better and work for more than one receipt at a time. \
 Modelling could be a bit better, but no chance to exercise that within given timeframe.
