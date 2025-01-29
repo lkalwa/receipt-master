@@ -58,7 +58,7 @@ rspec spec
 
 Program uses a file to store categories. If you want to add a new category, you can do it interactively. 
 like shown in the Usage section.
-You can also edit the file on your own, file is stored in `/data` directory
+You can also edit the file on your own, file is stored in `/data` directory.
 Every time user provide an information about category of unknown product, it is saved in the file.
 
 ## Known Issues
